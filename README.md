@@ -12,12 +12,16 @@ associated with an External BGP session.
 # Non-compliant implementations
 
 * Arista EOS
-* BIRD
+* BIRD <sup>[1](#fn1)</sup>
 * Cisco IOS (classic)
 * Cisco IOS-XE
 * Cisco NX-OS
 * Juniper Junos
-* Nokia SR OS
-* OpenBGPD
+* Nokia SR OS <sup>[2](#fn2)</sup>
+* OpenBGPD <sup>[3](#fn3)</sup>
 * Quagga
 * frr
+
+<a name="fn1">1</a>: Ondrej Filip from the BIRD indicated that BIRD 2.0.0 would comply with RFC 8212.
+<a name="fn2">2</a>: Greg Hankins from Nokia indicated that Nokia is <a href="https://mailarchive.ietf.org/arch/msg/idr/kgl6etbjUuR3jLHVeDSi4LLIs50">working on compliance</a>.
+<a name="fn3">3</a>: OpenBGPD developers are looking into how to change the default behaviour.

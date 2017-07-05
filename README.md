@@ -28,5 +28,5 @@ associated with an External BGP session.
 <br />
 <a name="fn2">2</a>: Greg Hankins from Nokia indicated that Nokia is <a href="https://mailarchive.ietf.org/arch/msg/idr/kgl6etbjUuR3jLHVeDSi4LLIs50">working on compliance</a>.<br />
 <br />
-<a name="fn3">3</a>: OpenBGPD developers are looking into how to change the default behaviour.<br />
+<a name="fn3">3</a>: OpenBGPD developers are looking into how to change their current default behaviour.<br />
 <br />

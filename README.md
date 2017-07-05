@@ -22,6 +22,8 @@ associated with an External BGP session.
 * Quagga
 * frr
 
+# Footnotes
+
 <a name="fn1">1</a>: Ondrej Filip from the BIRD indicated that BIRD 2.0.0 would comply with RFC 8212.<br/>
 <br />
 <a name="fn2">2</a>: Greg Hankins from Nokia indicated that Nokia is <a href="https://mailarchive.ietf.org/arch/msg/idr/kgl6etbjUuR3jLHVeDSi4LLIs50">working on compliance</a>.<br />

@@ -5,6 +5,10 @@ specification ([RFC 4271](https://tools.ietf.org/html/rfc4271)) by defining the
 default behavior of a BGP speaker when there is no Import or Export Policy
 associated with an External BGP session.
 
+## Contributions
+
+If you observe a mistake on this page or if you can contribute an update, please file a pull-request or email job@ntt.net. If you can include version numbers or point to public documentation that would be ideal.
+
 # Compliant implementations
 
 * Cisco IOS XR

@@ -9,11 +9,11 @@ associated with an External BGP session.
 
 If you observe a mistake on this page or if you can contribute an update, please file a pull-request or email job@ntt.net. If you can include version numbers or point to public documentation that would be ideal.
 
-# Compliant implementations
+# Compliant BGP implementations
 
 * Cisco IOS XR
 
-# Non-compliant implementations
+# Non-compliant BGP implementations
 
 * Arista EOS <sup>[4](#fn1)</sup>
 * BIRD <sup>[1](#fn1)</sup>

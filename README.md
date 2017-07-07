@@ -34,7 +34,7 @@ If you observe a mistake on this page or if you can contribute an update, please
 <br />
 <a name="fn3">3</a>: OpenBGPD developers are looking into how to change their current default behaviour.<br />
 <br />
-<a name="fn4">3</a>: Arista EOS 4.18.0f allow you to emulate RFC 8212 behaviour by configuring the below, however this is not the default as of yet:
+<a name="fn4">4</a>: Arista EOS 4.18.0f allow you to emulate RFC 8212 behaviour by configuring the below, however this is not the default as of yet:
 ```
 bgp missing-policy direction in action deny
 bgp missing-policy direction out action deny

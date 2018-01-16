@@ -11,12 +11,12 @@ If you observe a mistake on this page or if you can contribute an update, please
 
 # Compliant BGP implementations
 
-* Cisco IOS XR
+* Cisco IOS XR (all versions)
+* BIRD (version 2.0.1 and higher)
 
 # Non-compliant BGP implementations
 
 * Arista EOS <sup>[4](#fn1)</sup>
-* BIRD <sup>[1](#fn1)</sup>
 * Cisco IOS (classic)
 * Cisco IOS-XE
 * Cisco NX-OS
@@ -28,8 +28,6 @@ If you observe a mistake on this page or if you can contribute an update, please
 
 # Footnotes
 
-<a name="fn1">1</a>: Ondrej Filip from the BIRD indicated that BIRD 2.0.0 would comply with RFC 8212.<br/>
-<br />
 <a name="fn2">2</a>: Greg Hankins from Nokia indicated that Nokia is <a href="https://mailarchive.ietf.org/arch/msg/idr/kgl6etbjUuR3jLHVeDSi4LLIs50">working on compliance</a>.<br />
 <br />
 <a name="fn3">3</a>: OpenBGPD developers are looking into how to change their current default behaviour.<br />

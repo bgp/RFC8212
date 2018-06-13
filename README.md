@@ -13,6 +13,7 @@ If you observe a mistake on this page or if you can contribute an update, please
 
 * Cisco IOS XR (all versions)
 * BIRD (version 2.0.1 and higher)
+* OpenBGPD (OpenBSD 6.4 and higher)
 
 # Non-compliant BGP implementations
 
@@ -22,15 +23,12 @@ If you observe a mistake on this page or if you can contribute an update, please
 * Cisco NX-OS
 * Juniper Junos
 * Nokia SR OS <sup>[2](#fn2)</sup>
-* OpenBGPD <sup>[3](#fn3)</sup>
 * Quagga
 * frr
 
 # Footnotes
 
 <a name="fn2">2</a>: Greg Hankins from Nokia indicated that Nokia is <a href="https://mailarchive.ietf.org/arch/msg/idr/kgl6etbjUuR3jLHVeDSi4LLIs50">working on compliance</a>.<br />
-<br />
-<a name="fn3">3</a>: OpenBGPD developers are looking into how to change their current default behaviour.<br />
 <br />
 <a name="fn4">4</a>: Arista EOS 4.18.0f allow you to emulate RFC 8212 behaviour by configuring the below, however this is not the default as of yet:
 ```

@@ -17,22 +17,24 @@ If you observe a mistake on this page or if you can contribute an update, please
 
 # Non-compliant BGP implementations
 
-* Arista EOS <sup>[4](#fn1)</sup>
+* Arista EOS <sup>[1](#fn1)</sup>
 * Cisco IOS (classic)
 * Cisco IOS-XE
 * Cisco NX-OS
-* Juniper Junos
-* Nokia SR OS <sup>[2](#fn2)</sup>
+* Juniper Junos <sup>[2](#fn2)</sup>
+* Nokia SR OS <sup>[3](#fn3)</sup>
 * Quagga
 * frr
 
 # Footnotes
 
-<a name="fn2">2</a>: Greg Hankins from Nokia indicated that Nokia is <a href="https://mailarchive.ietf.org/arch/msg/idr/kgl6etbjUuR3jLHVeDSi4LLIs50">working on compliance</a>.<br />
-<br />
-<a name="fn4">4</a>: Arista EOS 4.18.0f allow you to emulate RFC 8212 behaviour by configuring the below, however this is not the default as of yet:
+<a name="fn1">1</a>: Arista EOS 4.18.0f allow you to emulate RFC 8212 behaviour by configuring the below, however this is not the default as of yet:
 ```
 bgp missing-policy direction in action deny
 bgp missing-policy direction out action deny
 ```
+<br />
+<a name="fn2">2</a>: Adam Chappell wrote a <a href="https://github.com/packetsource/rfc8212-junos">RFC 8212 SLAX script</a> to side-load a RFC 8212 shim on Junos devices.
+<br />
+<a name="fn3">3</a>: Greg Hankins from Nokia indicated that Nokia is <a href="https://mailarchive.ietf.org/arch/msg/idr/kgl6etbjUuR3jLHVeDSi4LLIs50">working on compliance</a>.<br />
 <br />

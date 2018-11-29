@@ -14,6 +14,7 @@ If you observe a mistake on this page or if you can contribute an update, please
 * Cisco IOS XR (all versions)
 * BIRD (version 2.0.1 and higher)
 * OpenBGPD (OpenBSD 6.4 and higher)
+* Nokia SR-OS (19.5.R1 or higher)
 
 # Non-compliant BGP implementations
 
@@ -22,7 +23,6 @@ If you observe a mistake on this page or if you can contribute an update, please
 * Cisco IOS-XE
 * Cisco NX-OS
 * Juniper Junos <sup>[2](#fn2)</sup>
-* Nokia SR OS <sup>[3](#fn3)</sup>
 * Quagga
 * frr
 
@@ -35,6 +35,4 @@ bgp missing-policy direction out action deny
 ```
 <br />
 <a name="fn2">2</a>: Adam Chappell wrote a <a href="https://github.com/packetsource/rfc8212-junos">RFC 8212 SLAX script</a> to side-load a RFC 8212 shim on Junos devices.
-<br />
-<a name="fn3">3</a>: Greg Hankins from Nokia indicated that Nokia is <a href="https://mailarchive.ietf.org/arch/msg/idr/kgl6etbjUuR3jLHVeDSi4LLIs50">working on compliance</a>.<br />
 <br />

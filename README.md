@@ -14,7 +14,7 @@ If you observe a mistake on this page or if you can contribute an update, please
 * Cisco IOS XR (all versions)
 * BIRD (version 2.0.1 and higher)
 * OpenBGPD (OpenBSD 6.4 and higher)
-* Nokia SR-OS (19.5.R1 or higher)
+* Nokia SR OS (19.5.R1 or higher)
 
 # Non-compliant BGP implementations
 

@@ -37,6 +37,7 @@ bgp missing-policy direction out action deny
 <a name="fn2">2</a>: Adam Chappell wrote a <a href="https://github.com/packetsource/rfc8212-junos">RFC 8212 SLAX script</a> to side-load a RFC 8212 shim on Junos devices.
 <br />
 <a name="fn3">3</a>: FRRouting (7.0+) allows you to emulate RFC 8212 behaviour by configuring the below, however this is not the default as of yet:
+
 ```
 router bgp XXX
   bgp ebgp-require-policy

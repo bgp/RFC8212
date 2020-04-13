@@ -15,6 +15,7 @@ If you observe a mistake on this page or if you can contribute an update, please
 * BIRD (version 2.0.1 and higher)
 * OpenBGPD (OpenBSD 6.4 and higher)
 * Nokia SR OS (19.5.R1 or higher)
+* FRRouting (7.4 or higher)
 
 # Non-compliant BGP implementations
 
@@ -24,7 +25,7 @@ If you observe a mistake on this page or if you can contribute an update, please
 * Cisco NX-OS
 * Juniper Junos <sup>[2](#fn2)</sup>
 * Quagga
-* FRRouting (7.0 or higher) <sup>[3](#fn3)</sup>
+* FRRouting (7.0 to 7.3) <sup>[3](#fn3)</sup>
 * Extreme IronWare (6.3.0a and earlier)
 
 # Footnotes

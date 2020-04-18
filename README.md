@@ -16,6 +16,7 @@ If you observe a mistake on this page or if you can contribute an update, please
 * OpenBGPD (OpenBSD 6.4 and higher)
 * Nokia SR OS (19.5.R1 or higher)
 * FRRouting (7.4 or higher)
+* Bio routing / bio-rd
 
 # Non-compliant BGP implementations
 

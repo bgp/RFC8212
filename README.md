@@ -26,8 +26,7 @@ If you observe a mistake on this page or if you can contribute an update, please
 * Cisco NX-OS
 * Juniper Junos <sup>[2](#fn2)</sup>
 * Quagga
-* FRRouting (7.0 to 7.3)
-* Extreme IronWare (6.3.0a and earlier)
+* Extreme IronWare
 
 # Footnotes
 

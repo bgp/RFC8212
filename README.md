@@ -11,7 +11,7 @@ If you observe a mistake on this page or if you can contribute an update, please
 
 # Compliant BGP implementations
 
-* Cisco IOS XR (all versions)
+* Cisco IOS XR
 * BIRD (version 2.0.1 and higher)
 * OpenBGPD (OpenBSD 6.4 and higher)
 * Nokia SR OS (19.5.R1 or higher)
@@ -21,9 +21,7 @@ If you observe a mistake on this page or if you can contribute an update, please
 # Non-compliant BGP implementations
 
 * Arista EOS <sup>[1](#fn1)</sup>
-* Cisco IOS (classic)
-* Cisco IOS-XE
-* Cisco NX-OS
+* Cisco IOS (classic) / IOS XE / NX-OS
 * Juniper Junos <sup>[2](#fn2)</sup>
 * Quagga
 * Extreme IronWare

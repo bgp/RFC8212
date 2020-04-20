@@ -30,14 +30,18 @@ If you observe a mistake on this page or if you can contribute an update, please
 # Footnotes
 
 <a name="fn1">1</a>: Arista EOS 4.18.0f allow you to emulate RFC 8212 behaviour by configuring the below, however this is not the default as of yet:
+
 ```
 bgp missing-policy direction in action deny
 bgp missing-policy direction out action deny
 ```
+
 <br />
 <a name="fn2">2</a>: IOS XE 17.2.1 allow you to emulate RFC 8212 behaviour by configuring the below, however this is not the default as of yet:
+
 ```
 bgp safe-ebgp-policy
 ```
+
 <br />
 <a name="fn3">2</a>: Adam Chappell wrote a <a href="https://github.com/packetsource/rfc8212-junos">RFC 8212 SLAX script</a> to side-load a RFC 8212 shim on Junos devices.<br />

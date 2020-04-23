@@ -44,4 +44,4 @@ bgp safe-ebgp-policy
 ```
 
 <br />
-<a name="fn3">2</a>: Adam Chappell wrote a <a href="https://github.com/packetsource/rfc8212-junos">RFC 8212 SLAX script</a> to side-load a RFC 8212 shim on Junos devices.<br />
+<a name="fn3">3</a>: Adam Chappell wrote a <a href="https://github.com/packetsource/rfc8212-junos">RFC 8212 SLAX script</a> to side-load a RFC 8212 shim on Junos devices.<br />

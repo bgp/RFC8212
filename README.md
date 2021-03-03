@@ -26,6 +26,7 @@ If you observe a mistake on this page or if you can contribute an update, please
 * Juniper Junos <sup>[3](#fn3)</sup>
 * Quagga
 * Extreme IronWare
+* Huawei VRP
 
 # Footnotes
 

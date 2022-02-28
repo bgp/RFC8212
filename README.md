@@ -18,6 +18,7 @@ If you observe a mistake on this page or if you can contribute an update, please
 * Nokia SR OS (19.5.R1 and higher)
 * FRRouting (7.4 and higher)
 * Bio routing / bio-rd
+* freeRouter (22.4.1 and higher)
 
 # Non-compliant BGP implementations
 

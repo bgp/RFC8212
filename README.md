@@ -7,7 +7,7 @@ associated with an External BGP session.
 
 ## Contributions
 
-If you observe a mistake on this page or if you can contribute an update, please file a pull-request or email job@fastly.com. If you can include version numbers or point to public documentation that would be ideal.
+If you observe a mistake on this page or if you can contribute an update, please file a pull-request or email job@sobornost.net. If you can include version numbers or point to public documentation that would be ideal.
 
 # Compliant BGP implementations
 
@@ -47,5 +47,5 @@ bgp safe-ebgp-policy
 ```
 
 <br />
-<a name="fn3">3</a>: Junos 20.3R1 allows to set `defaults ebgp no-policy` at the `[edit protocols bgp]` hierarchy level, more information <a href="https://www.juniper.net/documentation/en_US/junos/topics/topic-map/basic-routing-policies.html#implicit-filter-ebgp-without-policies">here</a>.<br/>
+<a name="fn3">3</a>: Junos 20.3R1 allows to set <code>defaults ebgp no-policy</code> at the <code>[edit protocols bgp]</code> hierarchy level, more information <a href="https://www.juniper.net/documentation/en_US/junos/topics/topic-map/basic-routing-policies.html#implicit-filter-ebgp-without-policies">here</a>.<br/>
 Adam Chappell wrote a <a href="https://github.com/packetsource/rfc8212-junos">RFC 8212 SLAX script</a> to side-load a RFC 8212 shim on Junos devices.<br />
